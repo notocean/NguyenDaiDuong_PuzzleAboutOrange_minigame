@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: LevelDataManager
   m_EditorClassIdentifier: 
   levelDataList:
-  - {fileID: 11400000, guid: ac36a1564021ed44c9a209125d1dc0fe, type: 2}
+  - {fileID: 11400000, guid: 391ab8d879b51dc488b4f366df727c52, type: 2}
   - {fileID: 11400000, guid: 78bec189a3d4ef840a0a49fe41c9c902, type: 2}
   - {fileID: 11400000, guid: 330789b6f8e808f459bffddedb061154, type: 2}
+  isTutorial: 1

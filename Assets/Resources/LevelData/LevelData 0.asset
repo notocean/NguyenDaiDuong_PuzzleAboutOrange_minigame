@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 436d8a7b7f03e31488162e7b61832ebe, type: 3}
   m_Name: LevelData 0
   m_EditorClassIdentifier: 
-  index: 1
-  orange1Coordinate: {x: 1, y: 2}
-  orange2Coordinate: {x: 2, y: 0}
-  orange3Coordinate: {x: 3, y: 2}
-  orange4Coordinate: {x: 1, y: 3}
+  index: 0
+  orange1Coordinate: {x: 1, y: 0}
+  orange2Coordinate: {x: 2, y: 1}
+  orange3Coordinate: {x: 1, y: 2}
+  orange4Coordinate: {x: 3, y: 1}
   block1Coordinate: {x: 2, y: 3}
   block2Coordinate: {x: 3, y: 3}
-  block3Coordinate: {x: 1, y: 1}
-  isActive: 0
+  block3Coordinate: {x: 2, y: 0}
+  isActive: 1
   starCount: 0
